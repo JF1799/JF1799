@@ -32,5 +32,4 @@ class Skills extends SoftwareDeveloper {
 <p align="center">
 <a href="https://www.linkedin.com/in/jefferson-molina-8b13b41b2/">Linkedin</a> 
 </p>
-  // databases  = ['MySQL', 'MongoDB', 'PostgreSQL','Oracle'];
-  // frameworks = ['Angular','Flutter','Bootstrap'];
+ 
